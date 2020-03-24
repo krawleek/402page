@@ -166,7 +166,7 @@ body {
 }
 .particle:nth-child(16) {
   top: 60%;
-  left: 94.8191593353%;
+  left: 98%;
   font-size: 43px;
   filter: blur(0.32px);
   animation: 23s float2 infinite;

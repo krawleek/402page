@@ -7,6 +7,13 @@ body {
   box-sizing: border-box;
 }
 
+h1 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1em;
+}
+
 .container {
   position: relative;
   display: flex;
@@ -550,7 +557,7 @@ body {
 .particle:nth-child(71) {
   top: 13%;
   left: 49%;
-  font-size: 50px;
+  font-size: 15px;
   filter: blur(1.42px);
   animation: 22s float infinite;
 }
@@ -666,8 +673,8 @@ body {
   background-image: url('../img/exit-img.svg');
   background-size: contain;
   position: absolute;
-  width: 52px;
-  height: 52px;
+  width: 43px;
+  height: 45px;
   top:5%;
   left: 93%;
   cursor: pointer;

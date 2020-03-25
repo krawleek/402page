@@ -20,8 +20,13 @@
 ссылки на плакаты 
 
 krawleek.github.io/402page 
+
 krawleek.github.io/404page 
+
 krawleek.github.io/405page 
+
 krawleek.github.io/406page 
+
 krawleek.github.io/407page 
+
 krawleek.github.io/408page

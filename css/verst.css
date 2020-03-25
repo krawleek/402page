@@ -10,7 +10,7 @@ body {
 h1 {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  font-weight: lighter;
+  font-weight: 100;
   letter-spacing: 1em;
 }
 
@@ -263,7 +263,7 @@ h1 {
 }
 .particle:nth-child(29) {
   top: 92%;
-  left: 27%;
+  left: 22%;
   font-size: 40px;
   filter: blur(0.58px);
   animation: 40s floatReverse2 infinite;
@@ -304,7 +304,7 @@ h1 {
   animation: 38s float infinite;
 }
 .particle:nth-child(35) {
-  top: 51%;
+  top: 58%;
   left: 27%;
   font-size: 23px;
   filter: blur(0.7px);
@@ -472,7 +472,7 @@ h1 {
   animation: 20s float infinite;
 }
 .particle:nth-child(59) {
-  top: 46%;
+  top: 40%;
   left: 24.3902439024%;
   font-size: 25px;
   filter: blur(1.18px);
@@ -597,7 +597,7 @@ h1 {
   animation: 31s floatReverse infinite;
 }
 .particle:nth-child(77) {
-  top: 49%;
+  top: 69%;
   left: 28%;
   font-size: 23px;
   filter: blur(1.54px);
